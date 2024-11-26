@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.tab-list {
+  list-style-type: none;
+}
+.tab-button {
+  height: 20px;
+  width: 50px;
+  background-color: transparent;
+  border: none;
+  color: #7b8794;
+  font-size: 8px;
+  cursor: pointer;
+}
+.bottom-border {
+  border-bottom: 2px solid #2563eb;
+}
